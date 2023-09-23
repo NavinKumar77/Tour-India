@@ -1,0 +1,17 @@
+{
+  "name": "tourindia-master",
+  "version": "1.0.0",
+  "description": "<div align=\"center\"> \t<a href=\"https://mrjatinchauhan.github.io/tourindia/\"><img src=\"./pictures/tour-india.jpg\"></a> \t<h4>A simple Tourism Website Portfolio which shows travel destinations across various part of Country. This theme is made using Bootstrap features several content sections, a responsive portfolio grid (tourist-places), window modals for each portfolio item, Blogs section and AboutUs Section</h4> </div>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mongoose": "^7.1.0",
+    "nodemon": "^2.0.22"
+  }
+}
